@@ -1,0 +1,22 @@
+{
+  "name": "node-js-sistema",
+  "version": "1.0.0",
+  "description": "Pruebas Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuAbosEquinsa/nodejs.git"
+  },
+  "author": "Manuel Abos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuAbosEquinsa/nodejs/issues"
+  },
+  "homepage": "https://github.com/ManuAbosEquinsa/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
